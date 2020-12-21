@@ -17,7 +17,7 @@ public class Calc {
 		System.out.println("add="+add(10, 20));
 		System.out.println("difference="+diff(100, 20));
 		System.out.println("product="+prod(100, 20));
-		System.out.println("product="+div(100, 20));
+		System.out.println("division="+div(100, 20));
 
 	}
 }
